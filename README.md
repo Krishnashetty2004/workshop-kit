@@ -149,3 +149,4 @@ This project was migrated from Vite to Next.js with the following changes:
 ## 📄 License
 
 This project is licensed under the MIT License.
+# workshop-kit
